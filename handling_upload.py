@@ -41,5 +41,3 @@ class HandlingUpload:
                         print("file uploaded")
                         os.remove(file_path)  # Delete the file
                         print("file removed")
-
-        
